@@ -1,0 +1,27 @@
+# Data Manipulation & EDA
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning & Feature Engineering
+scikit-learn
+scipy
+xverse
+woe
+
+# Experiment Tracking
+mlflow
+
+# API Deployment
+fastapi
+uvicorn
+pydantic
+
+# Testing & Code Quality
+pytest
+flake8
+
+# Notebook support
+jupyter
+ipykernel
